@@ -1,7 +1,7 @@
 # C.elegans-sync
 C. elegans neural network - synchronization and modularity
 
-This repository shares all information used on this paper https://www.sciencedirect.com/science/article/pii/S0378437119311938.
+This repository shares all information used on https://www.sciencedirect.com/science/article/pii/S0378437119311938.
 
 In this work we study the modular structure of the C. elegans neural network using the electrical junction connections. The system is composed of 248 neurons (nodes) and 511 gap junctions (links). The adjacency matrix is symmetric and weighted. The complete Connectivity Data can be find at https://www.wormatlas.org/neuronalwiring.html#Connectivitydata (accessed March 2020).
 
