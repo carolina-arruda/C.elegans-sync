@@ -14,3 +14,5 @@ Files:
 3) Data-EJ248.csv: the columns specify the name of Neuron, the Index label, physical Localization	(head, mid-body, tail), the Topology classification into 3 modules, the functional Class	(interneuron, sensory neurons and moroneurons), the type of Ganglion (A, B, C, D, E, F, G, H, J, K) and the Topology classification into 5 modules and 10 modules. It also contains the number of neurons in each group used.
 
 The codes used to run the partially forced Kuramoto model and the correlation matrices are kuramoto_celegans.f90 and correlation_celegans.f90. Type gfortran program.f90 to compile and ./a.out to run.
+
+Any questions about the code or use for academic publications, please contact me at carolm@ifi.unicamp.br. 
